@@ -1,0 +1,8 @@
+.navtext{
+    color: black;
+}
+
+.navtext:hover{
+    color: "#2D4356";
+    transition: .4s ease-in-out;
+}

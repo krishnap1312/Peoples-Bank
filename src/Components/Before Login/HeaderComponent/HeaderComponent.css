@@ -1,0 +1,10 @@
+.navColor{
+    background-color: #262c4c;
+
+}
+
+.imgColor{
+    /* filter: grayscale(100%);
+    -webkit-filter: grayscale(100%); */
+    filter: hue-rotate(180deg);
+}
